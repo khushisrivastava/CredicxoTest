@@ -1,0 +1,11 @@
+# Virtual Environment
+env
+
+# Database file
+db.sqlite3
+
+# Cache File
+__pycache__
+
+# Migrations
+migration
